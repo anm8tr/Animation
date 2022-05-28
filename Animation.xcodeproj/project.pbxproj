@@ -24,6 +24,8 @@
 		5819AF4E2841B4B100A949F6 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5819AF4B2841B4B100A949F6 /* Poppins-Bold.ttf */; };
 		5819AF4F2841B4B100A949F6 /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5819AF4C2841B4B100A949F6 /* Inter-SemiBold.ttf */; };
 		5819AF522841B78600A949F6 /* CustomFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5819AF512841B78600A949F6 /* CustomFont.swift */; };
+		5819AF542842736D00A949F6 /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5819AF532842736D00A949F6 /* SignInView.swift */; };
+		5819AF562842A73D00A949F6 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5819AF552842A73D00A949F6 /* CustomTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +47,8 @@
 		5819AF4C2841B4B100A949F6 /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-SemiBold.ttf"; sourceTree = "<group>"; };
 		5819AF502841B4E100A949F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		5819AF512841B78600A949F6 /* CustomFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFont.swift; sourceTree = "<group>"; };
+		5819AF532842736D00A949F6 /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
+		5819AF552842A73D00A949F6 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +86,8 @@
 				5819AF27284058CD00A949F6 /* AnimationApp.swift */,
 				5819AF29284058CD00A949F6 /* ContentView.swift */,
 				5819AF472840596B00A949F6 /* OnboardingView.swift */,
+				5819AF532842736D00A949F6 /* SignInView.swift */,
+				5819AF552842A73D00A949F6 /* CustomTextField.swift */,
 				5819AF512841B78600A949F6 /* CustomFont.swift */,
 				5819AF2B284058CE00A949F6 /* Assets.xcassets */,
 				5819AF492841B4B100A949F6 /* Fonts */,
@@ -211,8 +217,10 @@
 			files = (
 				5819AF482840596B00A949F6 /* OnboardingView.swift in Sources */,
 				5819AF522841B78600A949F6 /* CustomFont.swift in Sources */,
+				5819AF562842A73D00A949F6 /* CustomTextField.swift in Sources */,
 				5819AF2A284058CD00A949F6 /* ContentView.swift in Sources */,
 				5819AF28284058CD00A949F6 /* AnimationApp.swift in Sources */,
+				5819AF542842736D00A949F6 /* SignInView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
