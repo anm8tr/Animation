@@ -26,6 +26,7 @@
 		5819AF522841B78600A949F6 /* CustomFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5819AF512841B78600A949F6 /* CustomFont.swift */; };
 		5819AF542842736D00A949F6 /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5819AF532842736D00A949F6 /* SignInView.swift */; };
 		5819AF562842A73D00A949F6 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5819AF552842A73D00A949F6 /* CustomTextField.swift */; };
+		5819AF582842CB8A00A949F6 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5819AF572842CB8A00A949F6 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		5819AF512841B78600A949F6 /* CustomFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFont.swift; sourceTree = "<group>"; };
 		5819AF532842736D00A949F6 /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
 		5819AF552842A73D00A949F6 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		5819AF572842CB8A00A949F6 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				5819AF29284058CD00A949F6 /* ContentView.swift */,
 				5819AF472840596B00A949F6 /* OnboardingView.swift */,
 				5819AF532842736D00A949F6 /* SignInView.swift */,
+				5819AF572842CB8A00A949F6 /* Extensions.swift */,
 				5819AF552842A73D00A949F6 /* CustomTextField.swift */,
 				5819AF512841B78600A949F6 /* CustomFont.swift */,
 				5819AF2B284058CE00A949F6 /* Assets.xcassets */,
@@ -221,6 +224,7 @@
 				5819AF2A284058CD00A949F6 /* ContentView.swift in Sources */,
 				5819AF28284058CD00A949F6 /* AnimationApp.swift in Sources */,
 				5819AF542842736D00A949F6 /* SignInView.swift in Sources */,
+				5819AF582842CB8A00A949F6 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
